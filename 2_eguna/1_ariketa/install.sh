@@ -2,8 +2,8 @@ mkdir ~/labirintoa
 mkdir -p ~/labirintoa/.1gela/.2gela/.3gela/.4gela/.5gela/.6gela/.7gela/.8gela/.9gela/.10gela/.11gela/.12gela/.13gela/.14gela/.15gela/Zorionak
 touch ~/labirintoa/.1gela/.2gela/.3gela/.4gela/.5gela/.6gela/.7gela/.8gela/.9gela/.10gela/.11gela/.12gela/.13gela/.14gela/.15gela/Zorionak/klabea
 echo "E2qdtJ" >> ~/labirintoa/.1gela/.2gela/.3gela/.4gela/.5gela/.6gela/.7gela/.8gela/.9gela/.10gela/.11gela/.12gela/.13gela/.14gela/.15gela/Zorionak/klabea
-touch ~/labirintoa/.1gela/.2gela/.3gela/.4gela/.5gela/.6gela/.7gela/.8gela/.9gela/.10gela/.11gela/pista
-echo " .-.\n(o o)   Booooo, preso geratu nintzen erronkariaren\n| O \   mamua naiz. Pista batekin lagunduko dizuet:\n \   \  'ls' erabili beharrean, erabili 'ls -a'.\n  '~~~' Labirintoaren sekretua ikusiko duzu." >>  ~/labirintoa/.1gela/.2gela/.3gela/.4gela/.5gela/.6gela/.7gela/.8gela/.9gela/.10gela/.11gela/pista
+touch ~/labirintoa/.1gela/.2gela/.3gela/.4gela/.5gela/.6gela/.7gela/.8gela/.9gela/.10gela/.11gela/boooooooo
+echo " .-.\n(o o)   Booooo, preso geratu nintzen erronkariaren\n| O \   mamua naiz. Pista batekin lagunduko dizuet:\n \   \  'ls' erabili beharrean, erabili 'ls -a'.\n  '~~~' Labirintoaren sekretua ikusiko duzu." >>  ~/labirintoa/.1gela/.2gela/.3gela/.4gela/.5gela/.6gela/.7gela/.8gela/.9gela/.10gela/.11gela/boooooooo
 ln -s ~/labirintoa/.1gela/.2gela/.3gela/.4gela/.5gela/.6gela/.7gela/.8gela/.9gela/.10gela/.11gela/.12gela/.13gela/.14gela/.15gela ~/labirintoa/.1gela/.2gela/.3gela/.4gela/.5gela/.6gela/.7gela/.8gela/.9gela/.10gela/.11gela/.12gela/.13gela/.14gela/ezkerrera
 ln -s ~/labirintoa ~/labirintoa/.1gela/.2gela/.3gela/.4gela/.5gela/.6gela/.7gela/.8gela/.9gela/.10gela/.11gela/.12gela/.13gela/.14gela/eskubira
 ln -s ~/labirintoa ~/labirintoa/.1gela/.2gela/.3gela/.4gela/.5gela/.6gela/.7gela/.8gela/.9gela/.10gela/.11gela/.12gela/.13gela/.14gela/gora
