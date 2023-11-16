@@ -15,6 +15,7 @@
 
 echo "Kaixo, scripta exekutatzera noa!"
 echo ""
+sleep 10
 
 ## Kodigoa irakurtzeari eta interpretatzeari
 ## alderantzizko ingeniaritza deitzen zaio.
@@ -46,6 +47,7 @@ printf '\065\127\155\132\066\160' >> $f
 ## Bukatzeko pistatxo bat utziko dut...
 echo "Zerbait egin dut, baina non?"
 echo ""
+sleep 5
 echo "Agian aurreko egunean erabili zenuten"
 echo "'cat' komandoa erabiliz install.sh-ren"
 echo "sekretuak ikusiko dituzue..."
